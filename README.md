@@ -8,11 +8,9 @@
 
 <div>
   <ul>
-    <li>💻 Estudando atualmente <em>React, Node.js e React Native</em></li>
-    <li>📚 Cursando atualmente <em>Técnico em informática</em></li>
-    <li>💙 Apaixonado por tecnologia ^^</li>
-    <li>👔 Dê uma olhada no meu <a href="https://www.linkedin.com/in/jpmoncao/">Linkedin</a></li>
-    <li>📫 Contate-me: <a href="mailto:pedrohjoao44@gmail.com">pedrohjoao44@gmail.com</a></li></li>
+    <li>💻 Atualmente estudando <em>HTML, CSS e JavaScript</em></li>
+    <li>📚 Cursando <em>Técnico em informática</em></li>
+    <li>📫 Contate-me: <a href="mailto:arthur.rprodovalho@gmail.com">arthur.rprodovalho@gmail.com</a></li></li>
   </ul>
 </div>
 
@@ -20,11 +18,11 @@
 
 <br>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=jpmoncao&color=blue" alt="Profile views" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=arthurrpr&color=blue" alt="Profile views" /> </p>
 
 <div align="center">
-  <a href="https://github.com/jpmoncao/portfolio">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jpmoncao&repo=portfolio&theme=react"/>
+  <a href="https://github.com/arthurrpr/arthurrpr">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arthurrpr&repo=portfolio&theme=react"/>
   </a>
 </div>
 
@@ -41,5 +39,5 @@
 
 ##
   
-🗿 Obrigado por visitar meu perfil! Considere dar uma olhada nos meus repositórios. [Recomendo esse](https://github.com/jpmoncao/formove) =)
+🗿 Obrigado pela visita! Considere dar uma olhada nos meus repositórios! =)
  ![Snake animation](https://github.com/jpmoncao/jpmoncao/blob/output/github-contribution-grid-snake.svg) 
