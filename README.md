@@ -20,12 +20,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=arthurrpr&color=blue" alt="Profile views" /> </p>
 
-<div align="center">
-  <a href="https://github.com/arthurrpr/arthurrpr">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arthurrpr&repo=portfolio&theme=react"/>
-  </a>
-</div>
-
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
