@@ -1,10 +1,10 @@
 <div align="right">
   <a href="https://github.com/jpmoncao/">
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpmoncao&theme=react"/>
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurrpr&theme=react"/>
   </a>
 </div>
 
-<h1 align="left">Hello world, eu sou João Pedro <img src="smile.gif" height="50px"></h1>
+<h1 align="left">Olá, eu sou Arthur Risso! <img src="smile.gif" height="50px"></h1>
 
 <div>
   <ul>
