@@ -1,5 +1,5 @@
 <div align="right">
-  <a href="https://github.com/jpmoncao/">
+  <a href="https://github.com/arthurrpr/">
     <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurrpr&theme=react"/>
   </a>
 </div>
@@ -32,4 +32,4 @@
 ##
   
 🗿 Obrigado pela visita! Considere dar uma olhada nos meus repositórios! =)
- ![Snake animation](https://github.com/jpmoncao/jpmoncao/blob/output/github-contribution-grid-snake.svg) 
+ ![Snake animation](https://github.com/arthurrpr/arthurrpr/blob/output/github-contribution-grid-snake.svg) 
