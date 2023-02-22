@@ -8,9 +8,9 @@
 
 <div>
   <ul>
-    <li>💻 Atualmente estudando <em>HTML, CSS e JavaScript</em></li>
-    <li>📚 Cursando <em>Técnico em Informática</em></li>
-    <li>📫 Contate-me: <a href="mailto:arthur.rprodovalho@gmail.com">arthur.rprodovalho@gmail.com</a></li></li>
+    <li>💻 Atualmente estudando <em>HTML, CSS e JavaScript</em>.</li>
+    <li>📚 Cursando <em>Técnico em Informática</em>.</li>
+    <li>📫 Entre em contato pelo e-mail: <a href="mailto:arthur.rprodovalho@gmail.com">arthur.rprodovalho@gmail.com</a>.</li></li>
   </ul>
 </div>
 
@@ -22,7 +22,6 @@
 
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg">
@@ -31,5 +30,5 @@
 
 ##
   
-🗿 Obrigado pela visita! Considere dar uma olhada nos meus repositórios! =)
+ Obrigado pela visita! Considere dar uma olhada nos meus repositórios! =)
  ![Snake animation](https://github.com/jpmoncao/jpmoncao/blob/output/github-contribution-grid-snake.svg) 
