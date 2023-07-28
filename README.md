@@ -31,4 +31,3 @@
 ##
   
  Obrigado pela visita! Considere dar uma olhada nos meus repositórios! =)
- ![Snake animation](https://github.com/jpmoncao/jpmoncao/blob/output/github-contribution-grid-snake.svg) 
