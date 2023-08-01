@@ -12,13 +12,11 @@
     <li>📚 <em>Técnico em Informática</em>.</li>
     <li>📫 Entre em contato pelo e-mail: <a href="mailto:arthur.rprodovalho@gmail.com">arthur.rprodovalho@gmail.com</a>.</li></li>
   </ul>
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=arthurrpr&color=blue" alt="Profile views" /> </p>
 </div>
 
 ##
 
-<br>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=arthurrpr&color=blue" alt="Profile views" /> </p>
 
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
