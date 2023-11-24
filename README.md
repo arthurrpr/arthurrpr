@@ -8,7 +8,7 @@
 
 <div>
   <ul>
-    <li>💻 Atualmente estudando <em>HTML, CSS e NodeJS</em>.</li>
+    <li>💻 Atualmente estudando <em>ReactJS</em>.</li>
     <li>📚 <em>Técnico em Informática</em>.</li>
     <li>📫 Entre em contato pelo e-mail: <a href="mailto:arthur.rprodovalho@gmail.com">arthur.rprodovalho@gmail.com</a>.</li></li>
   </ul>
